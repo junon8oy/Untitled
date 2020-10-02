@@ -1,0 +1,663 @@
+#EXTM3U
+
+############################################### SPORT #####################################
+
+#EXTINF:-1 group-title="USA",ESPN
+https://gma2.blab.email/espn.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="USA",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="USA",ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PQbUGRO.png" group-title="USA",ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="USA",FS2
+http://gma2.blab.email/fs2.m3u8
+
+#EXTINF:-1,BT SPORT1 HD
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BT SPORT2 HD
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1,BEIN SPORTS 1 HD (TH)
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD (TH)
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1,SPORT | BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36066?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sport Main Events HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36060?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36065?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Football
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36071?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS PREMIER LEAGUE FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36067?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sport Premier League HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36062?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Premier League
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36075?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MIX HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36074?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports MIX
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36073?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sport Action HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36057?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36063?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Arena
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36068?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36064?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sport Cricket HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36058?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Cricket
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36069?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sport Golf FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36059?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Golf
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36072?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Racing HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36076?checkedby:hlscat.com
+
+#EXTINF:-1,FOX SPORT NEWS HD AUS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1,FOX SPORTS 1
+http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28675?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+#EXTINF:-1,FOX SPORTS 2
+http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28674?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+#EXTINF:-1,FOX SPORTS 3
+http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28673?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+#EXTINF:-1,Fox Sport 1 (TH)
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1,Fox Sport 2 (TH)
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1,FOX Sport 3 (TH)
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1,EURO SPORTS 1
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
+
+#EXTINF:-1,Eurosport 1 HD RUS
+http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/master.m3u8?checkedby
+
+#EXTINF:-1,EURO SPORTS 2
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
+
+#EXTINF:-1,EUROSPORTS 1 SD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/871
+
+#EXTINF:-1,EUROSPORTS 2 SD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/870
+
+#EXTINF:-1,Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1,Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1,Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+
+#EXTINF:-1,ARENA SPORT 1 SD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/898?checkedby
+#EXTINF:-1,ARENA SPORT 2 SD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/897?checkedby
+#EXTINF:-1,ARENA SPORT 3 SD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/896?checkedby
+#EXTINF:-1,ARENA SPORT 4 SD
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/895?checkedby
+
+#EXTINF:-1, SPORT TV 1 (POR)
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 2 (POR)
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 3 (POR)
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 4 (POR)
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 5 (POR)
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV + HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/22884?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/22885?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/22886?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/22887?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/22888?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/22889?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV NBA HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/22898?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SPORT TV NBA HD alt 
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/30812?checkedby:hlscat.com
+
+
+#EXTINF:-1,True Sport 2 (TH)
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1,True Sport 5 (TH)
+https://www.livedoomovies.com//02_sport5_480p/chunklist.m3u8
+#EXTINF:-1,True Sport 6 (TH)
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1,True Sport 7 (TH)
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1,True Sport HD1 (TH)
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,True Sport HD2 (TH)
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,True Sport HD3 (TH)
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,True Sport HD4 (TH)
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1,True Tennis HD (TH)
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1,True Premier HD2 FHD (TH)
+http://ip2121.com:8081/at1/ENG2/playlist.m3u8
+#EXTINF:-1,True Premier HD3 FHD (TH)
+http://ip2121.com:8081/at1/ENG3/playlist.m3u8
+
+#EXTINF:-1,TRUE PREMIER FOOTBALL HD1 (TH)
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,TRUE PREMIER FOOTBALL HD2 (TH)
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",Sony Ten 1 (IND)
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",Sony Ten 2 (IND)
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Sports",Sony Ten 3 (IND)
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+
+#EXTINF:-1,Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b850000.m3u8
+#EXTINF:-1,Dubai Sports 2 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,Dubai Sports 2 
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8
+#EXTINF:-1,Dubai Sports 3 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,Dubai Sports 3 
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8
+
+#EXTINF:-1,Abu Dhabi Sports 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+
+#EXTINF:-1,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,Tennis Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8?checkedby
+#EXTINF:-1,Tennis Plus 4
+https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8?checkedby
+
+#EXTINF:-1,Super Tennis CHN
+https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?checkedby
+
+#EXTINF:-1,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1,NBA TV (true vision)
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1,WWE TV
+https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
+
+#EXTINF:-1,Fight Box
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/3083
+
+#EXTINF:-1,BOX NATION
+http://62.112.9.63:88/box_nation/index.m3u8?token=test&checkedby
+
+#EXTINF:-1,UFC TV RUS
+https://live-ng-01.more.tv/hls/UFC/index_4.m3u8
+#EXTINF:-1,UFC ТВ HD RUS
+http://live-ng-01.more.tv/hls/UFC/master.m3u8?checkedby
+
+#EXTINF:-1,Golf Channel TH
+https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1,ONE GOLF HD
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8?checkedby
+#EXTINF:-1,ONE GOLF 
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1,Olympic Channel
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+
+#EXTINF:-1,SPORT | TSN 2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true&checkedby
+
+#EXTINF:-1,EGG NETWORK ESSport HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+
+#EXTINF:-1,LFC TV
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1,MUTV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1,Inter Channel HD
+http://mondial.cybergroup.top:8080/7OhgZAVgx0/xMMI6ZquvE/5366
+#EXTINF:-1,Milan Channel
+http://mondial.cybergroup.top:8080/7OhgZAVgx0/xMMI6ZquvE/5368
+#EXTINF:-1,Juventus TV
+http://mondial.cybergroup.top:8080/7OhgZAVgx0/xMMI6ZquvE/40344
+#EXTINF:-1,BARCA TV
+http://randomserver.site:2086/live/Bria/Bria/88779.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,BAYERN MUNCHEN TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
+
+
+
+############################################### MOVIES #####################################
+
+#EXTINF:-1,HBO (INA)
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+
+#EXTINF:-1,HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:-1,HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+
+#EXTINF:-1,HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+
+#EXTINF:-1,&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,&PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Movies", & Flix
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Movies", & Prive
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:0 group-title="P.R.E.M.I.U.M",Sony Movies Action
+#EXTVLCOPT:network-caching=1000
+http://51.52.156.22:8888/http/009
+
+#EXTINF:-1,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8?HBO
+
+#EXTINF:-1,HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8?HBO
+
+#EXTINF:-1,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8?HBO
+
+#EXTINF:-1,HBO INDIA
+http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+
+#EXTINF:-1,HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8?HBO
+
+#EXTINF:-1,Red By HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8?HBO
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA ACTION & ADVENTURE HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36036?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA DISNEY HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36040?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA GREATS HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36043?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA PREMIERE HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36046?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA THRILLER HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36052?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Comedy HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36038?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Crime & Thriller HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/114351?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Crime FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36039?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Drama HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36041?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Family HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36042?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema MODERN GREATS HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36044?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Sci-Fi HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36048?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Select HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36049?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Superhero HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36051?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Witness HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/36053?checkedby:hlscat.com
+
+#EXTINF:-1,CINEMAX
+http://14.169.92.193:8889/rtp/232.84.3.117:10654
+
+#EXTINF:-1 tvg-logo="127.0.0.1" group-title="HIBURAN MOVIES",ZQ TV
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+
+#EXTINF:-1,Paramount Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+
+#EXTINF:-1,USA
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+
+######################## NEWS ##################################
+#EXTINF:-1,Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+#EXTINF:-1,RT News
+https://rt-usa.secure.footprint.net/1105.m3u8
+
+#EXTINF:-1,Bloomberg TV
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1,NHK WORLD JAPAN
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
+
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 tvg-country="ID;SG" tvg-logo="" group-title="News",Channel NewsAsia,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,Global News
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+
+#EXTINF:-1,CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1,CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+
+#EXTINF:-1,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+
+#EXTINF:-1,Deutsche Welle (English)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
+
+#EXTINF:-1,FOX News
+https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1,France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_700.m3u8
+
+#EXTINF:-1,Telesur English
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1,TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+
+#EXTINF:-1,IDX Channel
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1,NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
+
+###################################### LOKAL ############################################
+
+#EXTINF:-1,JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SRXL3fSj/119.jpg" group-title="LOKAL",NETTV
+https://chama.ml/channelgratisan-NET
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="LOKAL",Net Tv
+https://tinyurl.com/gratistvmediaNET
+
+#EXTINF:-1,IDX Channel
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Business;Undefined",CNBC,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Business;Undefined",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Business;Undefined",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Business;Undefined",CNBC Indonesia 1
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b192000_sleng.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="News",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,iNews (HD)
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m4a_64000=2.m3u8
+
+#EXTINF:-1,KOMPAS TV (Alt)
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+
+#EXTINF:-1,METRO TV (HD)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="News;Undefined",METRO TV
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040393.png" group-title="News;Undefined",METROTV HD 1
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040416.png" group-title="News;Undefined",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,RTV (2)
+https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV-avc1_499968=9-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1,TVRI NASIONAL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI SPORTS
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Sports (2)
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Mola FREE
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/02.m3u8
+
+#EXTINF:-1,Mola TV free HD
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
+
+#EXTINF:-1,RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+
+#EXTINF:0 tvg-country="ID" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="General",TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="Undefined",ID | TVRI,TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/VH7TANA.png" group-title="Undefined",ID | TVRI Jakarta,TVRI Jakarta
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/tPvtrgk.png" group-title="Undefined",ID | TVRI Jawa Barat,TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/RIwYxS9.png" group-title="Undefined",ID | TVRI Kanal 3,TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,GTV (HD)
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-m4a_64000=2.m3u8
+#EXTINF:-1,MNC TV (HD)
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m4a_64000=2.m3u8
+#EXTINF:-1,RCTI (HD)
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-m4a_64000=2.m3u8
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040405.png" group-title="Undefined",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?checkedby:hlscat.com
+
+###################################### MUSIC ###########################################################
+#EXTINF:-1,MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+#EXTINF:-1,Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+
+#EXTINF:-1,Maleo
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1,POP Musik
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1,RADIO M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1,RETRO
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,Pop UK
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+
+#EXTINF:-1,POP Max
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+
+
+################################## KIDS #######################################
+#EXTINF:-1,Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,Tiny Pop
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+
+#EXTINF:-1,TokuSHOUTsu
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,Al Quran Al Kareem
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_41200=1.m3u8
+
+#EXTINF:-1,Al Sunnah An Nabawiyyah
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_41200=1.m3u8
+
+
+#EXTINF:-1,(MY) RTM TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+
+#EXTINF:-1,(MY) RTM TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+
+#EXTINF:-1,(SG) Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1,ANIMAX JAPAN
+https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
+
+#EXTINF:-1,CGN JAPAN
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+
+#EXTINF:-1,SBS
+http://211.245.55.198:1024/m2u/239.192.41.2:49220
+
+#EXTINF:-1,SBS PLUS
+http://211.245.55.198:1024/m2u/239.192.49.7:49220
+
+#EXTINF:-1,SBS MTV
+http://211.245.55.198:1024/m2u/239.192.55.4:49220
+
+#EXTINF:-1,SBS fun E
+http://211.245.55.198:1024/m2u/239.192.55.3:49220
+
+#EXTINF:-1,SBS CNBC
+http://211.245.55.198:1024/m2u/239.192.53.8:49220
+
+#EXTINF:-1,KBS1
+http://211.245.55.198:1024/m2u/239.192.67.100:49220
+
+#EXTINF:-1,KBS2
+http://211.245.55.198:1024/m2u/239.192.67.99:49220
+
+#EXTINF:-1,KBS Joy
+http://211.245.55.198:1024/m2u/239.192.56.6:49220
+
+#EXTINF:-1,KBS DRAMA
+http://211.245.55.198:1024/m2u/239.192.49.6:49220
+
+#EXTINF:-1,Waku Waku Japan
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28734?play_token=4dtAJcKDHo&token=QhVcUhcJRggXAARVB1MBB1cDAApYAlcBB1wDBwRSAQBfBFAFUgAHAwxGGURBEkJRAFtpWgVEXlFdUwZVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1dTARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+
+############################################################################### DOCUMENTARY ###########################################
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/41059?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://localdblagent.club:8080/live/Carlos1/Carlos1/9161.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://localdblagent.club:8080/Carlos1/Carlos1/9161?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://localdblagent.club:8080/1935/1935/9161?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",NAT GEO FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/40209?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",NAT GEO HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/40207?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15610?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15611?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15612?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",NAT GEO HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/22947?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/22948?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",NAT GEO FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/40753?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",NAT GEO WILD FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/40754?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/34040?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/670?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CULT: NAT GEO WILD FHD
+http://localdblagent.club:8080/live/Carlos1/Carlos1/13568.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",NAT GEOGRAPHIC
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/842.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",NAT GEOGRAPHIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/842.m3u8?checkedby:hlscat.com
+
+
