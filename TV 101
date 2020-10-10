@@ -41,25 +41,21 @@ http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28673?play_token=pC1Dfx6rU7&tok
 
 #EXTINF:-1,Fox Sport 1 (TH)
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-
 #EXTINF:-1,Fox Sport 2 (TH)
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
 #EXTINF:-1,FOX Sport 3 (TH)
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1,EURO SPORTS 1
 https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1,EURO SPORTS 2
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 
 #EXTINF:-1,Eurosport 1 HD RUS
 http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/master.m3u8?checkedby
 
-#EXTINF:-1,EURO SPORTS 2
-https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
-
 #EXTINF:-1,EUROSPORTS 1 SD
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/871
-
 #EXTINF:-1,EUROSPORTS 2 SD
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/870
 
@@ -110,6 +106,9 @@ https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1,True Tennis HD (TH)
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1, True Golf Channel TH
+https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+
 
 #EXTINF:-1,True Premier HD2 FHD (TH)
 http://ip2121.com:8081/at1/ENG2/playlist.m3u8
@@ -179,9 +178,6 @@ http://62.112.9.63:88/box_nation/index.m3u8?token=test&checkedby
 https://live-ng-01.more.tv/hls/UFC/index_4.m3u8
 #EXTINF:-1,UFC ТВ HD RUS
 http://live-ng-01.more.tv/hls/UFC/master.m3u8?checkedby
-
-#EXTINF:-1,Golf Channel TH
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
 
 #EXTINF:-1,ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8?checkedby
@@ -284,6 +280,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
 ######################## NEWS ##################################
+
 #EXTINF:-1,Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
@@ -533,7 +530,14 @@ http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28734?play_token=4dt
 #EXTINF:-1,ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 
-############################################################################### DOCUMENTARY ###########################################
+############################################################################### NEW ###########################################
+
+#EXTINF:-1,ABC
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/188?checkedby:hlscat.com
+
+#EXTINF:-1,ABC NEWS
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8?checkedby:hlscat.com
 
 
-
+#EXTINF:-1,NAT GEO
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/842.m3u8?checkedby:hlscat.com
