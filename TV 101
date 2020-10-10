@@ -25,50 +25,7 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,SPORT | BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36066?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sport Main Events HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36060?checkedby:hlscat.com
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36065?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Football
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36071?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS PREMIER LEAGUE FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36067?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sport Premier League HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36062?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Premier League
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36075?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MIX HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36074?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports MIX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36073?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sport Action HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36057?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36063?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Arena
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36068?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36064?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sport Cricket HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36058?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Cricket
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36069?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sport Golf FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36059?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Golf
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36072?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Racing HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36076?checkedby:hlscat.com
 
 #EXTINF:-1,FOX SPORT NEWS HD AUS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -132,23 +89,6 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV 5 (POR)
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV + HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/22884?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/22885?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/22886?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/22887?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/22888?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/22889?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV NBA HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/22898?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SPORT TV NBA HD alt 
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/30812?checkedby:hlscat.com
 
 
 #EXTINF:-1,True Sport 2 (TH)
@@ -329,36 +269,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8?HBO
 #EXTINF:-1,Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8?HBO
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA ACTION & ADVENTURE HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36036?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA DISNEY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36040?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA GREATS HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36043?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA PREMIERE HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36046?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA THRILLER HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36052?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Comedy HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36038?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Crime & Thriller HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114351?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Crime FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36039?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Drama HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36041?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Family HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36042?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema MODERN GREATS HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36044?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Sci-Fi HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36048?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Select HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36049?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Superhero HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36051?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Witness HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/36053?checkedby:hlscat.com
+
 
 #EXTINF:-1,CINEMAX
 http://14.169.92.193:8889/rtp/232.84.3.117:10654
@@ -623,41 +534,6 @@ http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28734?play_token=4dt
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 
 ############################################################################### DOCUMENTARY ###########################################
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/41059?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO WILD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/9161.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO WILD
-http://localdblagent.club:8080/Carlos1/Carlos1/9161?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO WILD
-http://localdblagent.club:8080/1935/1935/9161?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",NAT GEO FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/40209?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",NAT GEO HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/40207?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15610?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO WILD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15611?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15612?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",NAT GEO HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/22947?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",NAT GEO WILD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/22948?checkedby:hlscat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",NAT GEO FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/40753?checkedby:hlscat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",NAT GEO WILD FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/40754?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/34040?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/670?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CULT: NAT GEO WILD FHD
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13568.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",NAT GEOGRAPHIC
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/842.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",NAT GEOGRAPHIC
-http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/842.m3u8?checkedby:hlscat.com
+
 
 
